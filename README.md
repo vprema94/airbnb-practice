@@ -1,9 +1,9 @@
 Before you get started:
--- Read the entire README!
--- Draw out your relationships!
--- Pay attention to the difference between class & instance methods!
--- Write your sample data in run.rb
--- To test your data run ruby run.rb
+- Read the entire README!
+- Draw out your relationships!
+- Pay attention to the difference between class & instance methods!
+- Write your sample data in run.rb
+- To test your data run ruby run.rb
 
 ## Deliverables
 
