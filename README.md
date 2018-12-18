@@ -4,8 +4,6 @@ Before you get started:
 - Pay attention to the difference between class & instance methods!
 - To test your code, ruby run.rb
 
-Alright, You got this!
-
 ## Deliverables
 
 You are building an app for an Airbnb competitor
