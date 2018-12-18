@@ -1,8 +1,8 @@
 Before you get started:
--- Read the whole thing!
--- Draw out your relationships!
--- Pay attention to the difference between class & instance methods!
--- To test your code, ruby run.rb
+- Read the whole thing!
+- Draw out your relationships!
+- Pay attention to the difference between class & instance methods!
+- To test your code, ruby run.rb
 
 Alright, You got this!
 
